@@ -1,2 +1,2 @@
 post_id,length_chars,length_words,hashtags_count,mentions_count,urls_count,emojis_count,sentiment,media_attachments_count,media_type,time_of_day,day_of_week,month,num_followers,num_followings,account_age_days,avg_engagement_likes,avg_engagement_comments,avg_engagement_shares,post_status,instance_type,instance_size,likes,comments,shares,clicks,impressions,ctr
-1,120,20,3,1,1,2,negative,1,image,12:00,Monday,Jun,500,250,365,10,3,5,public,general,1000,12,4,8,50,200,0.25
+1,120,20,3,1,1,2,positive,1,image,12:00,Monday,May,500,250,365,10,3,5,public,general,1000,12,4,8,50,200,0.25
